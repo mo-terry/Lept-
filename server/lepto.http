@@ -1,0 +1,6 @@
+@lepto_HostAddress = http://localhost:5119
+
+GET {{lepto_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
